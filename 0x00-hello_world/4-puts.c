@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - signifies entry point of our code
+ * main - Entry point
  *
- * Return: must always be 0 (success)
- *
+ * Return: Always 0 (success)
  */
 int main (void)
 { 
