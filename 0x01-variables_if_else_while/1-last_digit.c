@@ -11,7 +11,6 @@
  */
 
 int main(void)
-
 {
 
 int n;
@@ -37,3 +36,4 @@ printf("Last digit of %d is %d and is less than 6 and not 0\n", n, pet);
 return (0);
 
 }
+
