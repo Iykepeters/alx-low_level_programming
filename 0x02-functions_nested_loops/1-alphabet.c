@@ -3,7 +3,6 @@
 /**
  *print_alphabet - prints the file from a-z 
  */
-
 void print_alphabet(void)
 {
 char letter;
