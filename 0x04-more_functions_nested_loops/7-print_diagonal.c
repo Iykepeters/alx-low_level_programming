@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 
 /**
  * print_diagonal - prints diagonal line
@@ -12,8 +12,6 @@ void print_diagonal(int n)
 int i;
 
 int b;
-
-
 
 if (n > 0)
 
