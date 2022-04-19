@@ -22,7 +22,8 @@ putchar(95);
 
 putchar('\n');
 
-} 
+}
+
 else
 {
 putchar('\n');
