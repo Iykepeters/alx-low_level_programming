@@ -14,8 +14,6 @@ int i;
 
 int k;
 
-
-
 if (size > 0)
 
 {
