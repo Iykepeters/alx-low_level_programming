@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *print_alphabet:prints the file from a-z
+ *print_alphabet - prints the file from a-z
  */
 void print_alphabet(void)
 {
