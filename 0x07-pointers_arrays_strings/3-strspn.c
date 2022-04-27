@@ -41,7 +41,7 @@ j++;  /*add j+1*/
 if (s[i] != accept[j]) /*If aren't equals*/
 
 {
-																		
+
 break;
 
 }
