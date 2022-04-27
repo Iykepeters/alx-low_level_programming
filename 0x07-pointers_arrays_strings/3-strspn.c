@@ -38,7 +38,6 @@ if (str2[j] == str1[i]) /*Evaluate condition*/
 {
 
 count++; /*count number*/
-
 break;
 
 }
