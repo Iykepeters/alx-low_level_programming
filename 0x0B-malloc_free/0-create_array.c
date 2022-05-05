@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdlib.h>
 
 /**
  *create_array - array for prints a string
@@ -54,6 +55,7 @@ position++;
 return (buffer);
 
 }
+
 
 
 }
