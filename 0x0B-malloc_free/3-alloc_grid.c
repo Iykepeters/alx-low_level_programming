@@ -26,7 +26,7 @@ return (NULL);
 grid = malloc(sizeof(int *) * height); /*malloc*/
 if (grid == NULL)
 
-{		
+{
 return (NULL);
 }
 
