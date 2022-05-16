@@ -28,3 +28,4 @@ may += va_arg(valist, int);
 va_end(valist);
 
 return (may);
+}
