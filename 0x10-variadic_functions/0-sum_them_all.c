@@ -1,8 +1,9 @@
 #include "variadic_functions.h"
+
 /**
- * sum_them_all - returns the sum of the inputed parameters
- * @n: amount of all present arguments
- * Return: sum of all parameters
+ * sum_them_all - returns the sum of the parameters
+ * @n: amount of all arguments
+ * Return: sum of parameters
  */
 
 int sum_them_all(const unsigned int n, ...)
