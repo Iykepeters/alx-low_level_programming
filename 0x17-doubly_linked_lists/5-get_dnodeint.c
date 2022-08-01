@@ -16,7 +16,9 @@ return (NULL);
 /* countdown till index matches or end of list */
 while (index && head->next)
 {
-head = head->next;								index -= 1;									}
+head = head->next;
+index -= 1;
+}
 if (index == 0)
 return (head);
 
